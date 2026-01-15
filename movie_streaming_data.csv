@@ -1,0 +1,1001 @@
+user_id,age,gender,country,subscription_type,movie_genre,watch_time_minutes,rating,device,watch_date
+1000,56,Male,Australia,Basic,Thriller,70,1.1,Tablet,2024-10-26
+1001,46,Female,Canada,Basic,Thriller,41,2.8,Smart TV,2024-03-22
+1002,32,Male,UK,Free,Drama,181,3.0,Laptop,2024-03-27
+1003,60,Other,Australia,Free,Comedy,234,1.5,Mobile,2024-08-12
+1004,25,Male,USA,Premium,Romance,70,1.7,Laptop,2024-01-16
+1005,38,Male,Australia,Basic,Drama,40,2.4,Laptop,2024-11-05
+1006,56,Male,India,Free,Thriller,186,4.0,Mobile,2024-12-23
+1007,36,Male,UK,Premium,Drama,30,3.0,Laptop,2024-06-11
+1008,40,Other,USA,Premium,Comedy,79,3.6,Mobile,2024-04-07
+1009,28,Other,Canada,Basic,Sci-Fi,204,4.9,Smart TV,2024-06-04
+1010,28,Female,USA,Basic,Romance,112,4.1,Laptop,2024-01-02
+1011,41,Other,Canada,Premium,Comedy,172,2.7,Mobile,2024-12-15
+1012,53,Other,USA,Free,Action,47,2.8,Tablet,2024-06-17
+1013,57,Female,Australia,Premium,Romance,154,3.5,Laptop,2024-11-10
+1014,41,Other,Australia,Basic,Comedy,152,3.7,Smart TV,2024-11-20
+1015,20,Male,Australia,Free,Thriller,12,3.0,Mobile,2024-04-01
+1016,39,Male,India,Free,Romance,33,3.6,Laptop,2024-06-29
+1017,19,Female,Canada,Premium,Romance,44,1.1,Laptop,2024-08-18
+1018,41,Female,Australia,Basic,Drama,222,2.7,Laptop,2024-10-27
+1019,61,Female,India,Premium,Thriller,162,2.1,Smart TV,2024-05-27
+1020,47,Male,Canada,Premium,Action,213,1.5,Mobile,2024-10-06
+1021,55,Other,USA,Premium,Sci-Fi,132,1.4,Tablet,2024-07-07
+1022,19,Male,India,Free,Comedy,88,3.4,Tablet,2024-12-12
+1023,38,Female,UK,Free,Drama,120,3.1,Tablet,2024-12-15
+1024,50,Other,India,Basic,Comedy,187,2.0,Mobile,2024-11-09
+1025,29,Other,India,Basic,Action,148,2.9,Tablet,2024-05-07
+1026,39,Male,Canada,Premium,Action,178,3.0,Smart TV,2024-01-07
+1027,61,Female,USA,Premium,Romance,66,1.8,Mobile,2024-02-16
+1028,42,Male,UK,Premium,Action,239,3.6,Laptop,2024-02-22
+1029,44,Other,Australia,Basic,Comedy,11,4.1,Smart TV,2024-07-05
+1030,59,Male,Australia,Free,Thriller,212,4.2,Laptop,2024-02-07
+1031,45,Male,India,Free,Thriller,49,3.4,Tablet,2024-08-13
+1032,33,Female,Canada,Premium,Romance,191,3.0,Smart TV,2024-02-22
+1033,32,Female,Canada,Premium,Sci-Fi,188,1.2,Mobile,2024-08-11
+1034,64,Other,Australia,Premium,Comedy,180,2.2,Smart TV,2024-06-02
+1035,61,Male,UK,Premium,Comedy,159,1.4,Laptop,2024-02-17
+1036,20,Male,USA,Basic,Action,185,4.9,Mobile,2024-12-16
+1037,54,Male,UK,Free,Comedy,219,1.5,Smart TV,2024-05-26
+1038,24,Other,USA,Premium,Drama,92,1.6,Smart TV,2024-03-04
+1039,38,Other,Australia,Basic,Sci-Fi,77,4.6,Smart TV,2024-12-14
+1040,26,Female,USA,Premium,Action,167,4.8,Smart TV,2024-06-30
+1041,56,Female,Canada,Premium,Drama,183,4.1,Mobile,2024-05-04
+1042,35,Female,India,Free,Romance,216,1.0,Laptop,2024-06-27
+1043,21,Male,India,Premium,Thriller,41,1.0,Smart TV,2024-02-08
+1044,42,Male,Australia,Free,Romance,238,2.5,Mobile,2024-09-16
+1045,31,Female,Canada,Free,Thriller,213,1.6,Laptop,2024-01-03
+1046,26,Male,UK,Free,Romance,227,1.1,Smart TV,2024-03-04
+1047,43,Female,Canada,Basic,Comedy,123,2.9,Laptop,2024-01-29
+1048,19,Other,India,Basic,Drama,61,4.8,Laptop,2024-01-11
+1049,37,Female,India,Free,Thriller,12,2.3,Mobile,2024-04-06
+1050,45,Other,Canada,Premium,Action,211,3.6,Laptop,2024-12-23
+1051,64,Male,Canada,Free,Drama,99,3.6,Mobile,2024-07-21
+1052,24,Female,India,Premium,Action,121,2.0,Smart TV,2024-01-21
+1053,61,Male,UK,Free,Drama,226,3.6,Laptop,2024-02-08
+1054,25,Other,Australia,Premium,Drama,114,1.8,Laptop,2024-08-10
+1055,64,Other,Australia,Basic,Romance,24,1.5,Tablet,2024-04-11
+1056,52,Other,Canada,Premium,Thriller,128,3.8,Smart TV,2024-02-15
+1057,31,Male,Australia,Free,Thriller,235,1.5,Smart TV,2024-03-06
+1058,34,Male,India,Basic,Drama,57,5.0,Tablet,2024-03-31
+1059,53,Male,India,Premium,Comedy,123,1.7,Tablet,2024-06-12
+1060,57,Male,Canada,Premium,Comedy,16,3.4,Mobile,2024-04-20
+1061,21,Other,Canada,Premium,Action,181,2.6,Mobile,2024-12-03
+1062,19,Other,Canada,Premium,Action,21,1.5,Laptop,2024-05-02
+1063,23,Female,UK,Premium,Romance,68,1.1,Laptop,2024-07-11
+1064,59,Female,Australia,Basic,Drama,46,3.5,Laptop,2024-04-08
+1065,21,Male,Canada,Basic,Action,98,4.2,Laptop,2024-10-17
+1066,46,Other,USA,Basic,Action,161,4.4,Mobile,2024-06-07
+1067,35,Other,USA,Basic,Sci-Fi,151,2.9,Smart TV,2024-04-12
+1068,43,Other,India,Free,Drama,15,4.1,Laptop,2024-10-07
+1069,61,Female,Australia,Basic,Romance,102,3.7,Smart TV,2024-02-12
+1070,51,Female,Canada,Premium,Action,182,3.9,Laptop,2024-03-24
+1071,27,Other,USA,Premium,Romance,75,3.0,Tablet,2024-07-09
+1072,53,Other,Australia,Basic,Thriller,112,3.5,Laptop,2024-02-20
+1073,31,Other,India,Premium,Romance,62,4.2,Laptop,2024-07-28
+1074,48,Female,UK,Basic,Comedy,38,2.6,Laptop,2024-05-05
+1075,32,Other,Australia,Premium,Comedy,24,4.2,Mobile,2024-03-09
+1076,25,Other,Australia,Free,Romance,54,3.4,Tablet,2024-09-21
+1077,31,Male,UK,Free,Comedy,106,1.7,Laptop,2024-09-14
+1078,40,Male,Australia,Basic,Thriller,220,1.1,Laptop,2024-07-06
+1079,57,Female,India,Basic,Drama,142,2.5,Smart TV,2024-08-17
+1080,38,Other,India,Basic,Comedy,164,3.2,Tablet,2024-07-07
+1081,33,Other,UK,Premium,Comedy,56,4.4,Laptop,2024-01-10
+1082,62,Male,Canada,Basic,Romance,19,1.5,Smart TV,2024-04-23
+1083,35,Female,USA,Free,Thriller,233,4.2,Smart TV,2024-03-16
+1084,64,Male,Canada,Premium,Drama,88,4.5,Mobile,2024-06-12
+1085,41,Male,Australia,Basic,Romance,135,1.6,Smart TV,2024-03-25
+1086,43,Male,USA,Premium,Romance,41,4.4,Laptop,2024-02-18
+1087,42,Male,UK,Premium,Sci-Fi,130,5.0,Mobile,2024-11-21
+1088,62,Other,UK,Basic,Thriller,44,3.9,Mobile,2024-06-25
+1089,58,Other,USA,Premium,Drama,76,4.1,Laptop,2024-08-05
+1090,46,Male,India,Free,Thriller,44,5.0,Tablet,2024-07-07
+1091,32,Female,USA,Free,Drama,60,3.4,Smart TV,2024-12-11
+1092,62,Female,Australia,Premium,Thriller,155,2.2,Mobile,2024-08-17
+1093,18,Female,India,Basic,Romance,108,4.4,Tablet,2024-09-11
+1094,42,Female,UK,Premium,Romance,143,3.5,Laptop,2024-08-23
+1095,24,Male,USA,Free,Action,114,3.3,Smart TV,2024-01-26
+1096,26,Other,Canada,Premium,Comedy,196,2.0,Smart TV,2024-03-12
+1097,41,Female,Canada,Premium,Sci-Fi,140,4.0,Mobile,2024-09-17
+1098,18,Male,Australia,Free,Thriller,97,1.3,Smart TV,2024-09-10
+1099,61,Female,Canada,Premium,Sci-Fi,98,4.7,Smart TV,2024-09-27
+1100,25,Female,USA,Premium,Action,60,2.3,Smart TV,2024-05-02
+1101,41,Male,USA,Basic,Comedy,64,1.5,Smart TV,2024-05-23
+1102,28,Other,Canada,Basic,Thriller,142,2.8,Laptop,2024-09-13
+1103,34,Other,USA,Free,Drama,43,1.2,Tablet,2024-05-23
+1104,25,Male,Australia,Free,Comedy,32,3.7,Laptop,2024-09-15
+1105,52,Other,India,Free,Romance,53,4.6,Laptop,2024-02-16
+1106,52,Male,Australia,Basic,Action,168,4.3,Mobile,2024-12-16
+1107,50,Male,Australia,Free,Comedy,129,1.5,Smart TV,2024-01-13
+1108,22,Male,USA,Free,Comedy,17,1.5,Laptop,2024-07-26
+1109,59,Other,India,Free,Romance,228,4.3,Smart TV,2024-11-06
+1110,56,Male,USA,Basic,Thriller,40,4.7,Laptop,2024-08-22
+1111,58,Female,UK,Premium,Drama,105,2.8,Laptop,2024-05-28
+1112,45,Other,USA,Free,Romance,30,3.0,Mobile,2024-11-17
+1113,24,Other,USA,Premium,Drama,90,2.3,Tablet,2024-06-03
+1114,26,Other,USA,Free,Thriller,8,4.6,Tablet,2024-06-14
+1115,25,Other,India,Premium,Comedy,227,3.6,Laptop,2024-03-30
+1116,29,Female,USA,Basic,Drama,86,2.2,Mobile,2024-07-04
+1117,51,Other,India,Basic,Action,196,2.2,Smart TV,2024-11-13
+1118,50,Other,Canada,Free,Action,170,4.6,Smart TV,2024-12-23
+1119,40,Male,UK,Premium,Romance,131,1.1,Laptop,2024-06-22
+1120,41,Other,India,Basic,Thriller,92,2.3,Tablet,2024-08-04
+1121,54,Female,Canada,Free,Romance,131,3.2,Mobile,2024-09-20
+1122,52,Female,India,Free,Romance,124,1.6,Tablet,2024-04-06
+1123,61,Female,India,Basic,Sci-Fi,219,1.4,Smart TV,2024-04-26
+1124,57,Female,UK,Basic,Romance,26,4.3,Tablet,2024-07-17
+1125,39,Other,Australia,Free,Sci-Fi,134,4.6,Smart TV,2024-11-15
+1126,44,Other,Australia,Premium,Action,35,4.3,Mobile,2024-01-21
+1127,52,Female,India,Premium,Action,123,4.6,Mobile,2024-07-18
+1128,18,Female,USA,Premium,Romance,15,3.2,Laptop,2024-12-06
+1129,52,Other,Canada,Free,Action,224,4.2,Laptop,2024-09-04
+1130,54,Female,USA,Basic,Thriller,50,2.5,Tablet,2024-10-02
+1131,64,Male,USA,Free,Sci-Fi,100,3.7,Mobile,2024-09-20
+1132,31,Female,India,Basic,Sci-Fi,194,5.0,Mobile,2024-02-27
+1133,20,Female,India,Premium,Romance,201,1.9,Laptop,2024-10-28
+1134,18,Male,India,Premium,Action,196,2.6,Smart TV,2024-01-31
+1135,22,Male,India,Basic,Drama,234,2.9,Tablet,2024-09-05
+1136,43,Other,Australia,Basic,Sci-Fi,14,1.6,Tablet,2024-04-02
+1137,31,Other,India,Free,Romance,172,1.3,Laptop,2024-09-21
+1138,56,Male,Australia,Premium,Romance,132,4.3,Mobile,2024-09-27
+1139,44,Male,Australia,Free,Thriller,156,4.9,Laptop,2024-04-03
+1140,26,Other,India,Free,Comedy,103,2.6,Laptop,2024-06-02
+1141,32,Female,UK,Free,Comedy,176,1.4,Laptop,2024-10-11
+1142,32,Male,Canada,Premium,Sci-Fi,116,1.3,Laptop,2024-03-20
+1143,43,Other,USA,Free,Thriller,64,4.6,Smart TV,2024-10-18
+1144,59,Female,Australia,Free,Thriller,194,2.9,Smart TV,2024-03-24
+1145,30,Male,Canada,Free,Thriller,91,2.3,Mobile,2024-12-30
+1146,49,Female,UK,Free,Sci-Fi,149,2.9,Laptop,2024-02-06
+1147,56,Other,USA,Free,Comedy,69,2.3,Smart TV,2024-12-07
+1148,49,Male,USA,Free,Thriller,227,3.0,Mobile,2024-11-22
+1149,21,Female,Australia,Premium,Action,227,4.4,Laptop,2024-08-19
+1150,47,Male,India,Free,Romance,238,3.4,Tablet,2024-04-02
+1151,54,Female,UK,Basic,Romance,61,3.8,Smart TV,2024-12-01
+1152,40,Other,Australia,Free,Drama,187,2.5,Mobile,2024-04-11
+1153,56,Other,UK,Free,Drama,110,4.0,Tablet,2024-06-14
+1154,62,Male,India,Premium,Sci-Fi,185,3.7,Laptop,2024-06-07
+1155,32,Female,India,Premium,Sci-Fi,188,1.5,Laptop,2024-01-14
+1156,60,Male,Australia,Basic,Romance,230,3.3,Laptop,2024-08-12
+1157,46,Male,India,Basic,Action,13,2.0,Smart TV,2024-03-13
+1158,53,Female,Canada,Premium,Comedy,26,4.2,Mobile,2024-09-05
+1159,30,Female,USA,Premium,Comedy,145,2.7,Tablet,2024-03-31
+1160,49,Female,Australia,Free,Sci-Fi,93,5.0,Mobile,2024-08-03
+1161,24,Other,UK,Premium,Action,180,1.4,Smart TV,2024-03-30
+1162,39,Male,Canada,Basic,Sci-Fi,22,4.1,Mobile,2024-01-29
+1163,45,Male,Australia,Free,Comedy,119,3.7,Smart TV,2024-10-31
+1164,19,Other,India,Basic,Sci-Fi,208,4.1,Laptop,2024-08-07
+1165,59,Female,India,Free,Thriller,172,2.2,Tablet,2024-11-23
+1166,62,Other,India,Premium,Sci-Fi,149,3.0,Laptop,2024-08-02
+1167,23,Other,India,Basic,Romance,147,4.2,Mobile,2024-08-08
+1168,45,Other,UK,Free,Sci-Fi,110,1.9,Laptop,2024-02-11
+1169,45,Male,Canada,Free,Romance,19,1.9,Tablet,2024-05-14
+1170,61,Other,USA,Premium,Action,211,3.2,Laptop,2024-02-11
+1171,61,Male,UK,Premium,Comedy,67,3.1,Tablet,2024-06-12
+1172,37,Male,UK,Premium,Drama,171,2.1,Tablet,2024-12-26
+1173,47,Male,USA,Basic,Drama,17,2.2,Laptop,2024-10-09
+1174,28,Female,USA,Free,Comedy,85,2.1,Smart TV,2024-02-27
+1175,45,Male,India,Premium,Drama,36,4.1,Mobile,2024-10-28
+1176,42,Male,UK,Basic,Sci-Fi,141,3.6,Smart TV,2024-11-17
+1177,56,Female,Australia,Basic,Action,44,4.3,Smart TV,2024-01-25
+1178,50,Male,USA,Basic,Action,152,4.9,Laptop,2024-03-13
+1179,18,Other,USA,Premium,Comedy,222,2.9,Mobile,2024-05-08
+1180,44,Other,Canada,Premium,Drama,223,1.3,Mobile,2024-03-27
+1181,30,Male,Australia,Free,Sci-Fi,217,1.2,Smart TV,2024-11-25
+1182,58,Female,Australia,Free,Action,86,2.2,Laptop,2024-06-01
+1183,20,Other,USA,Premium,Action,81,4.7,Mobile,2024-06-30
+1184,56,Female,India,Basic,Thriller,212,3.1,Smart TV,2024-05-04
+1185,23,Female,Canada,Basic,Thriller,205,2.1,Mobile,2024-03-07
+1186,25,Other,Australia,Basic,Action,195,2.6,Laptop,2024-01-06
+1187,44,Female,USA,Free,Comedy,80,3.4,Laptop,2024-05-04
+1188,26,Other,Australia,Basic,Romance,176,3.6,Laptop,2024-11-09
+1189,54,Female,Canada,Free,Romance,42,1.6,Mobile,2024-11-21
+1190,50,Other,Canada,Free,Sci-Fi,215,4.9,Tablet,2024-02-22
+1191,59,Male,UK,Basic,Action,192,3.2,Mobile,2024-03-06
+1192,61,Other,USA,Basic,Action,75,1.5,Tablet,2024-11-09
+1193,41,Other,Canada,Premium,Action,231,4.6,Laptop,2024-03-22
+1194,32,Other,UK,Premium,Comedy,52,1.3,Smart TV,2024-03-27
+1195,49,Other,UK,Basic,Thriller,22,4.6,Tablet,2024-01-02
+1196,49,Female,Australia,Free,Action,148,5.0,Laptop,2024-07-22
+1197,41,Male,Australia,Free,Action,187,3.8,Laptop,2024-05-29
+1198,58,Other,UK,Free,Drama,43,4.1,Tablet,2024-10-19
+1199,29,Female,Australia,Free,Comedy,200,2.3,Smart TV,2024-04-12
+1200,56,Male,Canada,Free,Sci-Fi,191,4.8,Laptop,2024-01-24
+1201,19,Male,India,Premium,Action,93,3.1,Tablet,2024-07-30
+1202,20,Male,Canada,Basic,Drama,228,3.9,Smart TV,2024-03-05
+1203,54,Male,UK,Premium,Romance,66,4.7,Smart TV,2024-07-27
+1204,34,Other,UK,Free,Sci-Fi,236,4.9,Laptop,2024-09-07
+1205,19,Other,Canada,Free,Action,145,4.3,Mobile,2024-04-26
+1206,19,Female,Australia,Free,Action,113,2.2,Mobile,2024-04-25
+1207,45,Female,Australia,Free,Drama,85,4.9,Laptop,2024-08-24
+1208,40,Female,UK,Basic,Comedy,233,3.5,Smart TV,2024-04-14
+1209,54,Male,USA,Free,Action,138,4.7,Laptop,2024-09-15
+1210,49,Male,Australia,Basic,Romance,215,3.7,Tablet,2024-02-15
+1211,50,Other,Canada,Free,Action,81,2.2,Mobile,2024-11-06
+1212,18,Male,Australia,Basic,Romance,192,2.5,Tablet,2024-11-26
+1213,36,Male,Canada,Premium,Sci-Fi,94,3.2,Laptop,2024-08-03
+1214,19,Male,UK,Free,Sci-Fi,18,4.2,Laptop,2024-10-27
+1215,61,Female,Australia,Basic,Thriller,99,2.3,Smart TV,2024-11-28
+1216,43,Female,Canada,Premium,Thriller,58,3.3,Smart TV,2024-01-24
+1217,49,Other,UK,Free,Romance,136,2.4,Smart TV,2024-02-04
+1218,23,Male,USA,Free,Comedy,43,4.3,Tablet,2024-01-24
+1219,49,Male,Canada,Free,Action,76,2.9,Smart TV,2024-01-28
+1220,21,Other,USA,Basic,Action,29,1.3,Laptop,2024-01-16
+1221,28,Male,USA,Basic,Thriller,81,1.7,Smart TV,2024-02-28
+1222,34,Male,India,Premium,Romance,164,1.2,Mobile,2024-08-30
+1223,55,Female,Australia,Basic,Action,191,3.0,Smart TV,2024-07-25
+1224,41,Other,Canada,Basic,Action,234,1.4,Tablet,2024-09-27
+1225,22,Other,USA,Free,Comedy,195,1.5,Mobile,2024-09-05
+1226,51,Other,India,Free,Drama,170,4.8,Mobile,2024-09-23
+1227,23,Other,UK,Free,Thriller,124,4.5,Mobile,2024-07-11
+1228,39,Female,Canada,Free,Thriller,224,2.8,Tablet,2024-11-30
+1229,28,Female,USA,Free,Drama,57,4.9,Laptop,2024-08-05
+1230,33,Male,Australia,Free,Action,226,1.0,Smart TV,2024-04-24
+1231,50,Male,India,Free,Comedy,199,3.5,Mobile,2024-03-08
+1232,26,Male,USA,Premium,Comedy,160,3.5,Mobile,2024-10-25
+1233,23,Male,Australia,Premium,Thriller,135,2.8,Mobile,2024-11-20
+1234,33,Female,USA,Premium,Comedy,230,2.6,Laptop,2024-03-15
+1235,46,Other,Canada,Premium,Sci-Fi,212,2.8,Laptop,2024-04-12
+1236,20,Female,Canada,Free,Drama,154,2.7,Tablet,2024-10-23
+1237,37,Male,Canada,Premium,Action,100,3.9,Laptop,2024-06-26
+1238,53,Female,India,Free,Sci-Fi,170,1.5,Smart TV,2024-08-02
+1239,36,Other,Canada,Premium,Drama,204,1.8,Tablet,2024-11-10
+1240,43,Other,Australia,Basic,Romance,76,1.7,Tablet,2024-02-08
+1241,20,Female,USA,Premium,Thriller,66,2.0,Smart TV,2024-09-15
+1242,36,Female,UK,Premium,Comedy,189,3.1,Smart TV,2024-07-22
+1243,37,Female,Australia,Free,Romance,10,1.4,Smart TV,2024-01-07
+1244,49,Male,Australia,Premium,Comedy,210,4.5,Tablet,2024-02-18
+1245,24,Female,Canada,Basic,Sci-Fi,36,2.2,Tablet,2024-01-26
+1246,58,Female,India,Free,Action,103,1.7,Tablet,2024-06-09
+1247,50,Female,USA,Free,Action,142,3.7,Smart TV,2024-12-22
+1248,57,Other,India,Premium,Action,135,1.2,Smart TV,2024-06-24
+1249,56,Other,USA,Free,Comedy,191,3.5,Mobile,2024-03-19
+1250,35,Male,USA,Free,Romance,80,3.8,Laptop,2024-01-02
+1251,57,Male,India,Free,Action,181,1.9,Mobile,2024-05-11
+1252,18,Other,Australia,Free,Romance,63,1.2,Smart TV,2024-10-02
+1253,28,Other,USA,Free,Comedy,35,2.5,Tablet,2024-04-26
+1254,45,Other,India,Free,Sci-Fi,97,1.4,Smart TV,2024-06-12
+1255,42,Female,USA,Basic,Romance,73,1.5,Laptop,2024-10-14
+1256,40,Female,UK,Premium,Sci-Fi,194,2.0,Mobile,2024-01-28
+1257,48,Other,Australia,Basic,Comedy,56,2.2,Mobile,2024-11-28
+1258,47,Female,Canada,Free,Comedy,93,3.1,Tablet,2024-01-01
+1259,59,Female,USA,Free,Thriller,131,3.7,Mobile,2024-07-06
+1260,52,Male,UK,Premium,Comedy,173,3.4,Mobile,2024-02-25
+1261,24,Other,Canada,Basic,Comedy,35,1.6,Smart TV,2024-02-04
+1262,33,Other,Canada,Premium,Drama,217,1.7,Mobile,2024-04-21
+1263,43,Female,USA,Basic,Action,88,4.5,Mobile,2024-10-12
+1264,19,Other,India,Free,Thriller,235,3.2,Mobile,2024-11-05
+1265,18,Male,USA,Premium,Thriller,131,4.5,Tablet,2024-02-05
+1266,29,Male,UK,Premium,Thriller,154,2.5,Tablet,2024-08-04
+1267,22,Male,Canada,Free,Drama,136,3.5,Smart TV,2024-03-20
+1268,54,Other,USA,Premium,Sci-Fi,17,3.1,Mobile,2024-11-09
+1269,49,Other,India,Basic,Comedy,49,2.3,Tablet,2024-03-23
+1270,26,Other,USA,Basic,Action,131,2.9,Tablet,2024-03-05
+1271,58,Other,Australia,Basic,Romance,174,3.0,Smart TV,2024-11-20
+1272,52,Other,India,Basic,Sci-Fi,118,1.8,Laptop,2024-05-07
+1273,36,Male,UK,Free,Comedy,181,2.3,Mobile,2024-11-02
+1274,33,Female,Canada,Premium,Drama,24,4.2,Tablet,2024-01-22
+1275,20,Male,USA,Basic,Comedy,209,4.7,Smart TV,2024-08-03
+1276,37,Other,India,Free,Comedy,85,2.4,Smart TV,2024-04-16
+1277,41,Male,Australia,Premium,Drama,186,2.2,Smart TV,2024-04-18
+1278,50,Other,India,Premium,Thriller,168,1.8,Tablet,2024-12-22
+1279,41,Other,Australia,Free,Thriller,229,3.7,Mobile,2024-06-29
+1280,28,Male,UK,Free,Action,133,2.3,Laptop,2024-12-21
+1281,25,Other,Canada,Basic,Action,147,5.0,Mobile,2024-06-12
+1282,53,Female,UK,Premium,Thriller,209,2.3,Smart TV,2024-03-08
+1283,55,Other,USA,Premium,Sci-Fi,21,2.6,Smart TV,2024-10-18
+1284,57,Female,India,Free,Romance,156,3.4,Laptop,2024-06-28
+1285,37,Female,Australia,Premium,Comedy,62,4.2,Mobile,2024-06-29
+1286,52,Other,Australia,Basic,Romance,76,2.9,Smart TV,2024-06-17
+1287,42,Male,India,Premium,Comedy,223,2.7,Smart TV,2024-01-22
+1288,52,Female,India,Free,Thriller,113,5.0,Mobile,2024-03-06
+1289,42,Male,USA,Free,Action,27,1.0,Smart TV,2024-01-21
+1290,46,Female,UK,Basic,Sci-Fi,178,4.6,Mobile,2024-04-09
+1291,35,Other,Australia,Basic,Action,76,1.6,Smart TV,2024-10-26
+1292,63,Other,USA,Premium,Romance,12,4.1,Mobile,2024-04-12
+1293,35,Female,UK,Premium,Action,63,3.5,Laptop,2024-02-16
+1294,19,Other,USA,Free,Thriller,222,2.4,Smart TV,2024-02-08
+1295,52,Female,Australia,Basic,Sci-Fi,115,4.5,Laptop,2024-10-11
+1296,33,Other,India,Basic,Romance,191,1.1,Smart TV,2024-11-05
+1297,58,Male,India,Basic,Sci-Fi,17,1.9,Smart TV,2024-03-30
+1298,53,Other,UK,Premium,Comedy,171,3.3,Tablet,2024-03-25
+1299,50,Male,Canada,Basic,Action,233,2.4,Mobile,2024-09-29
+1300,21,Other,UK,Free,Sci-Fi,160,3.4,Laptop,2024-12-01
+1301,50,Male,Canada,Free,Drama,221,1.1,Laptop,2024-07-06
+1302,31,Other,USA,Premium,Action,193,1.5,Laptop,2024-06-07
+1303,38,Male,USA,Premium,Comedy,20,1.5,Mobile,2024-08-30
+1304,37,Female,Australia,Basic,Sci-Fi,123,1.8,Tablet,2024-03-13
+1305,25,Female,Canada,Premium,Romance,6,2.8,Laptop,2024-02-18
+1306,24,Male,Australia,Free,Comedy,214,4.0,Mobile,2024-04-10
+1307,20,Other,India,Basic,Drama,149,4.6,Smart TV,2024-01-02
+1308,34,Male,Canada,Free,Sci-Fi,34,4.3,Laptop,2024-08-31
+1309,50,Other,UK,Basic,Thriller,107,1.8,Laptop,2024-06-24
+1310,29,Female,India,Premium,Action,17,2.8,Tablet,2024-08-25
+1311,39,Other,India,Basic,Romance,100,1.8,Laptop,2024-02-28
+1312,39,Female,UK,Basic,Thriller,225,2.1,Laptop,2024-12-18
+1313,63,Other,India,Free,Sci-Fi,98,3.0,Smart TV,2024-04-08
+1314,47,Other,Canada,Free,Sci-Fi,86,1.3,Mobile,2024-12-24
+1315,55,Other,Australia,Basic,Comedy,17,1.9,Mobile,2024-01-02
+1316,55,Male,India,Premium,Sci-Fi,175,4.7,Tablet,2024-08-30
+1317,62,Male,Canada,Premium,Romance,217,2.9,Smart TV,2024-10-23
+1318,25,Female,USA,Free,Thriller,98,2.8,Mobile,2024-07-29
+1319,44,Female,Canada,Premium,Romance,153,1.1,Smart TV,2024-05-02
+1320,44,Male,Australia,Free,Drama,116,2.0,Mobile,2024-08-16
+1321,51,Female,Canada,Premium,Drama,59,4.5,Smart TV,2024-03-22
+1322,38,Male,UK,Basic,Action,85,1.7,Tablet,2024-05-23
+1323,47,Other,Australia,Free,Action,172,2.7,Laptop,2024-05-19
+1324,50,Female,USA,Free,Drama,215,1.1,Tablet,2024-01-29
+1325,45,Female,UK,Basic,Sci-Fi,120,2.9,Mobile,2024-09-26
+1326,64,Male,Canada,Free,Romance,147,1.1,Tablet,2024-09-03
+1327,50,Female,Australia,Premium,Drama,205,4.3,Laptop,2024-01-12
+1328,22,Female,USA,Premium,Action,184,4.3,Tablet,2024-12-20
+1329,36,Other,UK,Free,Drama,206,4.2,Mobile,2024-12-02
+1330,21,Female,USA,Premium,Sci-Fi,112,2.1,Mobile,2024-04-15
+1331,52,Other,Canada,Free,Drama,227,4.3,Tablet,2024-02-01
+1332,34,Male,USA,Basic,Romance,57,3.2,Laptop,2024-03-14
+1333,61,Female,India,Free,Thriller,219,2.5,Tablet,2024-06-19
+1334,45,Other,UK,Basic,Sci-Fi,132,3.5,Laptop,2024-12-02
+1335,47,Male,USA,Premium,Action,184,1.0,Smart TV,2024-03-09
+1336,46,Female,Canada,Basic,Romance,162,1.6,Laptop,2024-10-27
+1337,63,Male,Canada,Premium,Drama,165,4.0,Smart TV,2024-12-27
+1338,23,Female,USA,Free,Drama,61,2.0,Tablet,2024-05-16
+1339,52,Male,Canada,Premium,Thriller,56,3.4,Laptop,2024-04-09
+1340,58,Male,Australia,Free,Action,141,2.5,Smart TV,2024-05-25
+1341,54,Other,Australia,Free,Action,186,4.4,Smart TV,2024-01-09
+1342,41,Male,Australia,Basic,Comedy,115,4.8,Smart TV,2024-03-02
+1343,46,Female,India,Basic,Action,5,4.5,Mobile,2024-07-03
+1344,63,Female,USA,Basic,Thriller,48,2.1,Tablet,2024-01-29
+1345,48,Other,India,Basic,Comedy,231,1.8,Smart TV,2024-04-23
+1346,52,Female,Canada,Premium,Comedy,79,2.9,Laptop,2024-05-22
+1347,50,Female,India,Premium,Drama,102,1.0,Smart TV,2024-04-29
+1348,38,Female,Canada,Premium,Drama,212,1.1,Mobile,2024-06-18
+1349,49,Male,Canada,Free,Action,13,3.2,Tablet,2024-06-05
+1350,40,Male,UK,Premium,Comedy,36,3.1,Mobile,2024-11-30
+1351,50,Female,Australia,Premium,Drama,19,5.0,Mobile,2024-12-14
+1352,20,Other,Canada,Premium,Thriller,144,1.8,Mobile,2024-09-16
+1353,35,Male,UK,Basic,Drama,229,2.0,Laptop,2024-03-22
+1354,42,Other,Australia,Premium,Sci-Fi,210,1.5,Tablet,2024-08-29
+1355,59,Female,Canada,Free,Sci-Fi,189,4.7,Tablet,2024-06-20
+1356,48,Female,Canada,Basic,Drama,140,4.1,Laptop,2024-08-18
+1357,20,Male,India,Free,Comedy,76,4.3,Tablet,2024-07-26
+1358,57,Female,India,Premium,Comedy,159,4.6,Mobile,2024-03-15
+1359,63,Male,Australia,Basic,Romance,194,3.1,Tablet,2024-09-26
+1360,41,Female,Canada,Free,Sci-Fi,16,2.8,Laptop,2024-04-23
+1361,49,Female,USA,Premium,Thriller,69,2.3,Mobile,2024-03-02
+1362,64,Male,India,Free,Comedy,111,3.4,Laptop,2024-12-27
+1363,39,Male,Australia,Free,Action,236,2.8,Smart TV,2024-11-15
+1364,40,Male,Canada,Free,Sci-Fi,46,2.8,Mobile,2024-04-11
+1365,19,Female,Canada,Premium,Thriller,194,4.7,Mobile,2024-12-27
+1366,44,Female,USA,Premium,Thriller,119,4.9,Tablet,2024-07-28
+1367,59,Other,Australia,Free,Comedy,143,4.2,Mobile,2024-09-11
+1368,19,Male,Canada,Basic,Thriller,107,4.0,Laptop,2024-01-20
+1369,43,Female,India,Basic,Comedy,175,3.7,Tablet,2024-02-27
+1370,34,Female,USA,Premium,Drama,99,1.7,Smart TV,2024-04-21
+1371,57,Male,Australia,Premium,Sci-Fi,21,1.2,Laptop,2024-11-08
+1372,50,Other,USA,Premium,Romance,229,3.8,Smart TV,2024-07-14
+1373,26,Male,India,Premium,Drama,164,3.9,Smart TV,2024-12-18
+1374,60,Other,Australia,Premium,Sci-Fi,225,1.2,Smart TV,2024-04-01
+1375,56,Female,USA,Basic,Comedy,217,4.7,Mobile,2024-02-21
+1376,46,Other,UK,Premium,Sci-Fi,89,1.4,Laptop,2024-10-19
+1377,59,Female,India,Free,Comedy,172,2.1,Laptop,2024-01-08
+1378,43,Male,India,Free,Drama,155,3.7,Mobile,2024-10-26
+1379,52,Male,India,Basic,Action,60,1.7,Tablet,2024-04-07
+1380,42,Male,UK,Free,Action,138,1.2,Smart TV,2024-08-23
+1381,41,Other,UK,Basic,Sci-Fi,90,2.3,Laptop,2024-03-09
+1382,30,Female,Canada,Basic,Action,182,4.1,Mobile,2024-02-14
+1383,24,Male,USA,Free,Comedy,106,2.7,Smart TV,2024-05-16
+1384,53,Male,Canada,Premium,Thriller,169,3.6,Tablet,2024-08-21
+1385,62,Female,USA,Free,Comedy,196,3.3,Tablet,2024-02-01
+1386,37,Male,UK,Free,Thriller,58,1.1,Smart TV,2024-10-15
+1387,18,Female,UK,Basic,Drama,204,5.0,Tablet,2024-05-05
+1388,25,Female,Canada,Free,Romance,237,1.2,Laptop,2024-03-07
+1389,63,Female,Australia,Basic,Thriller,181,4.9,Laptop,2024-01-30
+1390,33,Female,Canada,Premium,Action,231,3.2,Laptop,2024-04-23
+1391,31,Female,USA,Premium,Comedy,119,4.9,Tablet,2024-07-22
+1392,29,Other,Canada,Premium,Drama,143,1.5,Laptop,2024-01-29
+1393,40,Male,India,Free,Action,92,3.0,Mobile,2024-05-10
+1394,32,Other,USA,Basic,Drama,53,1.7,Laptop,2024-07-03
+1395,45,Male,USA,Premium,Romance,153,1.2,Laptop,2024-09-09
+1396,51,Other,Australia,Basic,Comedy,119,3.5,Tablet,2024-10-12
+1397,19,Female,UK,Basic,Sci-Fi,198,1.8,Laptop,2024-03-02
+1398,49,Male,USA,Premium,Comedy,67,3.4,Smart TV,2024-01-03
+1399,40,Male,UK,Premium,Romance,108,1.4,Mobile,2024-03-08
+1400,39,Other,Canada,Basic,Comedy,87,2.3,Tablet,2024-01-25
+1401,42,Other,India,Premium,Sci-Fi,107,4.1,Mobile,2024-06-27
+1402,39,Male,Australia,Basic,Thriller,160,2.7,Smart TV,2024-05-20
+1403,39,Other,UK,Basic,Drama,21,3.5,Tablet,2024-08-18
+1404,59,Other,USA,Premium,Sci-Fi,10,3.6,Tablet,2024-10-26
+1405,23,Other,UK,Free,Action,151,4.4,Laptop,2024-06-11
+1406,32,Female,USA,Premium,Romance,188,2.3,Mobile,2024-11-06
+1407,60,Female,UK,Free,Thriller,234,3.7,Smart TV,2024-05-09
+1408,54,Other,USA,Basic,Action,32,4.8,Smart TV,2024-09-02
+1409,50,Other,Canada,Basic,Action,198,3.9,Tablet,2024-10-23
+1410,25,Female,USA,Free,Romance,42,3.0,Laptop,2024-06-20
+1411,61,Female,USA,Basic,Thriller,123,3.5,Tablet,2024-03-04
+1412,61,Male,India,Free,Action,41,4.0,Tablet,2024-01-31
+1413,22,Male,USA,Free,Action,119,3.4,Tablet,2024-02-16
+1414,56,Female,India,Basic,Thriller,72,1.1,Tablet,2024-05-09
+1415,21,Other,Australia,Free,Comedy,218,1.8,Smart TV,2024-12-17
+1416,23,Other,India,Premium,Action,222,4.2,Smart TV,2024-11-28
+1417,62,Other,Canada,Premium,Drama,181,2.1,Tablet,2024-04-19
+1418,49,Other,India,Basic,Thriller,47,3.9,Tablet,2024-03-09
+1419,47,Male,Australia,Basic,Action,168,2.5,Laptop,2024-02-27
+1420,64,Female,Canada,Free,Romance,62,3.1,Tablet,2024-04-15
+1421,52,Other,UK,Free,Sci-Fi,17,1.3,Smart TV,2024-10-26
+1422,57,Male,UK,Free,Drama,56,1.7,Mobile,2024-11-25
+1423,33,Other,India,Free,Sci-Fi,62,4.8,Smart TV,2024-09-12
+1424,30,Female,India,Premium,Sci-Fi,36,4.6,Laptop,2024-11-07
+1425,59,Male,Australia,Premium,Action,213,3.6,Smart TV,2024-06-19
+1426,47,Female,Australia,Basic,Drama,109,2.8,Mobile,2024-06-10
+1427,36,Female,USA,Free,Drama,232,3.7,Tablet,2024-10-12
+1428,34,Male,Australia,Free,Comedy,192,3.5,Mobile,2024-03-11
+1429,36,Male,USA,Basic,Sci-Fi,87,3.3,Tablet,2024-09-11
+1430,45,Male,Canada,Free,Drama,190,1.2,Tablet,2024-02-24
+1431,43,Male,India,Free,Comedy,103,3.5,Smart TV,2024-11-18
+1432,54,Male,Canada,Free,Thriller,108,4.1,Smart TV,2024-01-03
+1433,43,Male,Australia,Free,Comedy,188,5.0,Smart TV,2024-01-26
+1434,40,Male,Canada,Free,Romance,32,1.0,Laptop,2024-11-08
+1435,26,Other,Canada,Basic,Action,133,3.9,Smart TV,2024-05-05
+1436,29,Female,Canada,Free,Thriller,174,3.3,Laptop,2024-02-22
+1437,18,Male,Australia,Basic,Thriller,214,2.7,Smart TV,2024-07-16
+1438,18,Other,Canada,Free,Romance,52,1.5,Tablet,2024-10-25
+1439,64,Other,USA,Premium,Comedy,44,2.6,Laptop,2024-07-06
+1440,51,Other,Australia,Premium,Action,101,2.4,Mobile,2024-07-04
+1441,49,Female,Canada,Premium,Comedy,195,2.2,Laptop,2024-10-31
+1442,42,Male,Australia,Premium,Drama,208,3.9,Laptop,2024-10-24
+1443,57,Other,UK,Basic,Comedy,204,3.8,Mobile,2024-07-22
+1444,62,Female,USA,Basic,Thriller,220,3.4,Laptop,2024-01-11
+1445,18,Female,Canada,Free,Action,212,4.8,Tablet,2024-12-24
+1446,33,Female,UK,Premium,Comedy,118,2.4,Smart TV,2024-12-19
+1447,56,Other,UK,Basic,Action,136,2.0,Mobile,2024-05-25
+1448,22,Male,Australia,Free,Action,170,3.6,Smart TV,2024-03-25
+1449,39,Other,UK,Free,Drama,159,1.8,Tablet,2024-04-09
+1450,46,Other,USA,Basic,Drama,141,2.3,Mobile,2024-04-13
+1451,20,Male,USA,Premium,Thriller,115,1.9,Smart TV,2024-02-15
+1452,29,Male,India,Free,Romance,148,1.3,Smart TV,2024-02-13
+1453,43,Male,USA,Premium,Action,188,4.3,Tablet,2024-10-04
+1454,33,Female,UK,Premium,Romance,80,2.0,Smart TV,2024-06-29
+1455,54,Male,USA,Premium,Thriller,35,2.9,Tablet,2024-07-05
+1456,39,Other,Australia,Free,Action,220,1.2,Laptop,2024-04-23
+1457,46,Male,India,Premium,Action,123,3.8,Tablet,2024-09-11
+1458,31,Other,UK,Free,Sci-Fi,146,2.3,Laptop,2024-01-30
+1459,45,Female,India,Premium,Romance,29,4.0,Mobile,2024-09-20
+1460,22,Other,UK,Free,Comedy,38,2.6,Smart TV,2024-04-07
+1461,64,Other,Australia,Premium,Drama,71,1.8,Tablet,2024-11-08
+1462,47,Male,India,Basic,Comedy,156,3.1,Tablet,2024-11-24
+1463,63,Male,Canada,Premium,Romance,122,1.5,Smart TV,2024-04-24
+1464,22,Other,UK,Premium,Drama,238,2.8,Smart TV,2024-10-02
+1465,29,Male,Canada,Free,Comedy,77,2.3,Mobile,2024-10-07
+1466,33,Female,India,Free,Sci-Fi,30,4.6,Mobile,2024-10-01
+1467,43,Female,Canada,Premium,Drama,152,1.2,Tablet,2024-09-17
+1468,43,Male,Canada,Basic,Action,196,3.8,Mobile,2024-11-26
+1469,38,Female,India,Basic,Comedy,108,1.7,Laptop,2024-07-25
+1470,56,Male,Australia,Free,Drama,14,2.3,Mobile,2024-11-23
+1471,53,Other,Canada,Basic,Sci-Fi,215,2.7,Mobile,2024-07-29
+1472,50,Other,Canada,Premium,Drama,71,4.6,Tablet,2024-08-02
+1473,47,Female,Australia,Free,Drama,156,2.0,Laptop,2024-02-09
+1474,54,Male,Canada,Premium,Sci-Fi,9,1.4,Mobile,2024-01-26
+1475,40,Male,Canada,Free,Comedy,199,2.3,Laptop,2024-01-27
+1476,27,Female,Canada,Free,Thriller,190,1.4,Laptop,2024-07-08
+1477,22,Other,USA,Free,Comedy,31,1.5,Laptop,2024-03-23
+1478,53,Female,Australia,Free,Romance,212,3.3,Smart TV,2024-06-18
+1479,51,Other,Canada,Basic,Sci-Fi,117,1.2,Smart TV,2024-06-15
+1480,48,Male,Australia,Premium,Comedy,19,1.1,Smart TV,2024-07-06
+1481,27,Other,UK,Premium,Drama,167,3.9,Smart TV,2024-06-17
+1482,36,Female,UK,Premium,Sci-Fi,208,2.4,Tablet,2024-10-15
+1483,49,Male,Canada,Free,Action,109,1.5,Mobile,2024-08-16
+1484,18,Female,Australia,Basic,Comedy,185,2.0,Smart TV,2024-04-06
+1485,22,Female,Australia,Premium,Sci-Fi,48,3.6,Tablet,2024-01-16
+1486,62,Other,Australia,Basic,Comedy,30,2.1,Mobile,2024-10-05
+1487,21,Female,USA,Free,Sci-Fi,179,3.0,Smart TV,2024-05-14
+1488,33,Other,UK,Premium,Drama,166,1.5,Mobile,2024-01-26
+1489,41,Male,Australia,Basic,Action,219,3.4,Smart TV,2024-12-17
+1490,33,Other,Australia,Free,Action,99,2.3,Tablet,2024-01-12
+1491,19,Male,USA,Basic,Romance,182,3.5,Laptop,2024-03-12
+1492,45,Other,USA,Premium,Sci-Fi,88,4.2,Laptop,2024-05-12
+1493,49,Female,Australia,Premium,Comedy,144,3.4,Mobile,2024-04-15
+1494,44,Other,India,Free,Action,219,2.2,Tablet,2024-08-07
+1495,37,Other,Australia,Free,Action,136,2.0,Laptop,2024-06-25
+1496,41,Male,Australia,Free,Thriller,91,2.3,Smart TV,2024-10-08
+1497,29,Female,USA,Basic,Thriller,180,1.7,Laptop,2024-05-12
+1498,52,Other,USA,Basic,Action,187,1.7,Mobile,2024-01-22
+1499,50,Female,Australia,Basic,Sci-Fi,116,4.2,Mobile,2024-09-25
+1500,50,Other,Australia,Free,Romance,133,2.5,Tablet,2024-06-09
+1501,60,Other,Australia,Premium,Action,93,2.7,Mobile,2024-04-16
+1502,54,Female,USA,Premium,Drama,70,3.4,Laptop,2024-10-05
+1503,29,Other,Australia,Basic,Comedy,162,3.4,Laptop,2024-12-18
+1504,20,Female,Australia,Basic,Romance,135,1.3,Laptop,2024-08-22
+1505,18,Other,Canada,Premium,Drama,126,4.3,Laptop,2024-01-18
+1506,50,Male,India,Premium,Romance,153,1.7,Tablet,2024-08-29
+1507,57,Female,UK,Basic,Drama,221,3.9,Smart TV,2024-04-26
+1508,27,Other,India,Basic,Comedy,88,4.1,Smart TV,2024-10-12
+1509,60,Other,Canada,Premium,Comedy,181,3.9,Tablet,2024-10-08
+1510,61,Male,UK,Free,Thriller,120,3.3,Mobile,2024-05-23
+1511,46,Female,Australia,Basic,Sci-Fi,218,1.1,Smart TV,2024-07-23
+1512,30,Other,Canada,Premium,Drama,217,2.4,Mobile,2024-02-08
+1513,29,Male,Australia,Premium,Thriller,194,3.4,Smart TV,2024-06-02
+1514,48,Other,USA,Premium,Drama,229,2.5,Mobile,2024-06-24
+1515,63,Female,Canada,Premium,Thriller,120,4.5,Tablet,2024-08-28
+1516,19,Other,USA,Free,Comedy,42,2.2,Laptop,2024-05-13
+1517,52,Other,Canada,Premium,Romance,147,2.2,Mobile,2024-02-15
+1518,40,Other,Canada,Basic,Thriller,114,2.1,Laptop,2024-02-19
+1519,34,Other,USA,Free,Drama,184,2.3,Mobile,2024-06-14
+1520,43,Male,UK,Premium,Drama,211,3.2,Mobile,2024-04-15
+1521,25,Male,India,Free,Sci-Fi,50,3.8,Mobile,2024-08-03
+1522,46,Female,Australia,Basic,Comedy,29,3.7,Mobile,2024-05-25
+1523,43,Male,Canada,Premium,Drama,25,4.2,Mobile,2024-03-12
+1524,27,Male,Australia,Basic,Action,220,4.5,Laptop,2024-11-25
+1525,43,Female,USA,Premium,Romance,125,4.3,Mobile,2024-09-29
+1526,51,Male,Australia,Premium,Thriller,126,1.1,Laptop,2024-09-03
+1527,58,Male,USA,Premium,Sci-Fi,137,3.9,Tablet,2024-07-04
+1528,24,Female,Australia,Premium,Romance,74,1.8,Smart TV,2024-03-10
+1529,21,Female,India,Premium,Comedy,117,1.5,Mobile,2024-05-29
+1530,62,Female,India,Free,Sci-Fi,111,3.6,Smart TV,2024-09-02
+1531,28,Other,India,Premium,Thriller,116,2.3,Laptop,2024-09-18
+1532,46,Other,India,Premium,Thriller,112,1.2,Tablet,2024-01-26
+1533,53,Female,India,Free,Action,51,1.6,Tablet,2024-05-19
+1534,42,Female,India,Free,Comedy,219,1.0,Tablet,2024-04-08
+1535,38,Female,USA,Free,Sci-Fi,200,4.6,Smart TV,2024-10-04
+1536,53,Other,Canada,Free,Sci-Fi,95,1.1,Laptop,2024-02-20
+1537,27,Other,Australia,Free,Drama,22,1.8,Mobile,2024-05-30
+1538,54,Male,India,Free,Action,153,2.7,Mobile,2024-04-13
+1539,26,Male,USA,Premium,Action,224,2.4,Laptop,2024-03-29
+1540,41,Female,USA,Premium,Sci-Fi,231,4.6,Smart TV,2024-05-20
+1541,52,Other,USA,Basic,Sci-Fi,218,1.2,Mobile,2024-07-31
+1542,52,Other,Canada,Premium,Romance,108,3.0,Laptop,2024-08-20
+1543,53,Other,Australia,Premium,Romance,155,3.7,Mobile,2024-07-01
+1544,35,Female,Canada,Free,Romance,196,4.7,Tablet,2024-09-07
+1545,56,Male,UK,Free,Action,199,3.5,Mobile,2024-01-09
+1546,49,Female,USA,Premium,Drama,44,4.2,Smart TV,2024-03-19
+1547,41,Male,UK,Basic,Thriller,142,1.3,Laptop,2024-02-21
+1548,40,Male,India,Free,Romance,93,2.5,Smart TV,2024-09-25
+1549,49,Female,India,Premium,Drama,184,2.5,Laptop,2024-08-13
+1550,54,Male,Canada,Premium,Comedy,204,4.5,Tablet,2024-02-20
+1551,29,Male,Australia,Basic,Romance,207,1.6,Laptop,2024-07-04
+1552,30,Other,UK,Basic,Thriller,65,1.6,Mobile,2024-02-03
+1553,40,Male,Australia,Free,Comedy,196,2.3,Mobile,2024-10-17
+1554,42,Female,Canada,Basic,Comedy,9,1.2,Tablet,2024-08-17
+1555,52,Female,India,Premium,Thriller,126,1.7,Laptop,2024-05-10
+1556,58,Male,Australia,Premium,Romance,185,4.9,Tablet,2024-04-29
+1557,47,Other,Australia,Basic,Action,59,2.7,Mobile,2024-11-21
+1558,34,Other,India,Basic,Thriller,41,3.5,Smart TV,2024-09-03
+1559,37,Male,UK,Basic,Thriller,60,3.9,Tablet,2024-07-10
+1560,42,Male,India,Basic,Thriller,191,2.5,Smart TV,2024-11-18
+1561,39,Female,Australia,Free,Comedy,106,1.6,Smart TV,2024-07-28
+1562,30,Male,UK,Basic,Drama,97,1.8,Laptop,2024-04-12
+1563,36,Other,UK,Free,Action,201,2.3,Tablet,2024-11-24
+1564,53,Male,India,Premium,Romance,77,3.5,Smart TV,2024-05-12
+1565,29,Female,Australia,Basic,Romance,63,2.6,Smart TV,2024-11-18
+1566,58,Female,Canada,Free,Drama,6,1.0,Laptop,2024-05-18
+1567,36,Female,Australia,Basic,Thriller,197,3.1,Laptop,2024-04-30
+1568,29,Female,USA,Premium,Action,108,4.7,Mobile,2024-04-03
+1569,26,Female,Canada,Premium,Romance,192,4.2,Smart TV,2024-05-08
+1570,24,Male,UK,Premium,Sci-Fi,55,4.3,Mobile,2024-03-31
+1571,45,Male,Canada,Basic,Romance,34,4.2,Smart TV,2024-04-01
+1572,31,Male,UK,Basic,Thriller,15,2.3,Mobile,2024-03-03
+1573,48,Male,UK,Free,Sci-Fi,224,4.1,Laptop,2024-01-29
+1574,36,Female,Canada,Premium,Drama,112,1.6,Tablet,2024-07-28
+1575,64,Other,UK,Basic,Action,80,3.6,Laptop,2024-01-12
+1576,33,Male,UK,Premium,Drama,171,3.6,Mobile,2024-11-28
+1577,22,Other,USA,Premium,Drama,94,1.1,Mobile,2024-10-23
+1578,52,Male,Australia,Free,Action,209,4.2,Tablet,2024-05-09
+1579,29,Male,Australia,Free,Action,127,4.6,Smart TV,2024-10-19
+1580,42,Other,USA,Free,Romance,204,2.1,Mobile,2024-06-21
+1581,38,Female,Canada,Free,Romance,195,4.2,Mobile,2024-07-26
+1582,53,Male,India,Premium,Action,196,1.3,Mobile,2024-01-24
+1583,40,Male,India,Free,Sci-Fi,193,3.4,Tablet,2024-04-08
+1584,33,Male,India,Free,Comedy,129,2.9,Laptop,2024-12-21
+1585,56,Other,USA,Free,Romance,186,3.2,Mobile,2024-05-18
+1586,62,Female,USA,Free,Comedy,224,4.7,Tablet,2024-11-09
+1587,59,Other,UK,Premium,Sci-Fi,126,4.5,Mobile,2024-06-22
+1588,56,Other,India,Free,Action,98,4.1,Smart TV,2024-01-29
+1589,31,Female,Canada,Premium,Sci-Fi,205,2.1,Tablet,2024-05-22
+1590,48,Other,Canada,Basic,Romance,107,4.6,Mobile,2024-11-11
+1591,22,Female,India,Premium,Drama,227,1.4,Tablet,2024-12-16
+1592,52,Male,India,Premium,Action,190,4.4,Mobile,2024-02-11
+1593,40,Female,India,Free,Thriller,217,2.3,Laptop,2024-10-25
+1594,46,Male,USA,Basic,Comedy,188,1.2,Mobile,2024-07-26
+1595,60,Other,USA,Basic,Sci-Fi,166,3.7,Tablet,2024-11-25
+1596,28,Other,USA,Basic,Action,35,1.9,Smart TV,2024-07-10
+1597,35,Male,Australia,Basic,Sci-Fi,56,2.0,Smart TV,2024-06-08
+1598,64,Other,Canada,Premium,Action,93,2.2,Smart TV,2024-03-04
+1599,29,Female,Canada,Basic,Romance,80,1.3,Mobile,2024-08-30
+1600,26,Male,UK,Premium,Romance,133,1.7,Laptop,2024-09-14
+1601,27,Other,USA,Premium,Romance,187,1.0,Mobile,2024-05-31
+1602,61,Male,Australia,Premium,Sci-Fi,26,2.8,Smart TV,2024-08-02
+1603,34,Female,Australia,Basic,Thriller,44,1.3,Tablet,2024-11-17
+1604,55,Female,Canada,Free,Romance,105,3.7,Smart TV,2024-06-14
+1605,24,Other,USA,Free,Action,115,1.9,Tablet,2024-01-31
+1606,63,Female,UK,Basic,Romance,133,4.8,Laptop,2024-08-19
+1607,30,Male,USA,Free,Drama,69,4.5,Tablet,2024-10-08
+1608,57,Female,India,Free,Romance,195,2.2,Mobile,2024-01-29
+1609,59,Male,USA,Premium,Sci-Fi,238,4.1,Mobile,2024-07-13
+1610,26,Male,India,Premium,Thriller,186,4.2,Mobile,2024-11-29
+1611,44,Female,India,Basic,Drama,174,4.9,Tablet,2024-09-12
+1612,19,Other,UK,Basic,Sci-Fi,153,3.4,Mobile,2024-10-07
+1613,22,Female,Canada,Free,Sci-Fi,83,1.3,Mobile,2024-10-30
+1614,46,Male,USA,Premium,Sci-Fi,213,3.6,Mobile,2024-11-16
+1615,54,Male,India,Basic,Action,26,3.5,Laptop,2024-11-18
+1616,55,Female,USA,Basic,Sci-Fi,170,3.6,Tablet,2024-12-11
+1617,36,Other,Canada,Basic,Action,103,2.2,Tablet,2024-10-20
+1618,25,Other,Canada,Basic,Sci-Fi,212,4.4,Smart TV,2024-03-27
+1619,62,Male,Australia,Basic,Comedy,12,4.8,Tablet,2024-05-28
+1620,18,Male,Canada,Basic,Drama,194,1.9,Laptop,2024-09-05
+1621,39,Other,UK,Free,Comedy,179,1.4,Tablet,2024-11-16
+1622,34,Female,India,Premium,Sci-Fi,21,1.8,Laptop,2024-10-09
+1623,24,Male,Australia,Premium,Drama,21,4.3,Laptop,2024-12-27
+1624,42,Male,UK,Basic,Drama,94,3.7,Tablet,2024-07-16
+1625,62,Other,USA,Premium,Thriller,145,3.5,Smart TV,2024-02-13
+1626,21,Female,India,Premium,Comedy,149,2.6,Mobile,2024-12-21
+1627,53,Other,Canada,Premium,Thriller,170,3.3,Mobile,2024-01-28
+1628,23,Female,India,Basic,Drama,85,2.2,Tablet,2024-01-17
+1629,48,Female,USA,Basic,Action,82,2.9,Tablet,2024-05-06
+1630,36,Female,Australia,Premium,Drama,177,4.2,Laptop,2024-06-16
+1631,61,Male,Australia,Premium,Thriller,10,4.9,Tablet,2024-08-31
+1632,56,Other,Australia,Basic,Comedy,167,4.7,Laptop,2024-03-16
+1633,44,Other,Canada,Free,Sci-Fi,114,4.7,Smart TV,2024-08-18
+1634,27,Female,UK,Premium,Sci-Fi,18,2.6,Tablet,2024-07-22
+1635,43,Male,UK,Free,Comedy,76,2.9,Mobile,2024-09-04
+1636,36,Male,India,Premium,Sci-Fi,193,3.8,Mobile,2024-10-28
+1637,56,Other,Canada,Free,Sci-Fi,147,4.7,Tablet,2024-08-01
+1638,20,Male,Australia,Free,Thriller,58,1.6,Laptop,2024-08-02
+1639,62,Male,Australia,Free,Comedy,31,2.2,Mobile,2024-06-06
+1640,30,Female,USA,Basic,Romance,17,1.6,Laptop,2024-03-09
+1641,45,Male,USA,Free,Action,163,3.4,Tablet,2024-03-25
+1642,37,Female,Australia,Free,Action,167,2.2,Tablet,2024-09-23
+1643,45,Other,Australia,Free,Sci-Fi,64,2.3,Mobile,2024-03-09
+1644,25,Male,Canada,Premium,Action,10,1.3,Tablet,2024-04-08
+1645,58,Other,UK,Free,Comedy,201,2.4,Smart TV,2024-12-12
+1646,56,Other,USA,Premium,Comedy,218,4.4,Smart TV,2024-08-03
+1647,18,Male,UK,Free,Drama,62,1.9,Mobile,2024-06-09
+1648,20,Male,Canada,Free,Drama,53,3.8,Smart TV,2024-04-03
+1649,30,Other,Australia,Basic,Action,155,3.5,Laptop,2024-06-22
+1650,45,Male,UK,Premium,Romance,221,4.5,Mobile,2024-06-13
+1651,42,Female,Australia,Free,Drama,166,1.5,Mobile,2024-04-24
+1652,50,Female,Australia,Premium,Drama,30,4.9,Laptop,2024-08-07
+1653,55,Male,India,Premium,Comedy,51,3.3,Smart TV,2024-01-31
+1654,23,Other,UK,Basic,Romance,9,5.0,Smart TV,2024-01-11
+1655,61,Male,UK,Basic,Sci-Fi,222,4.6,Smart TV,2024-12-08
+1656,62,Male,Australia,Basic,Action,24,1.9,Mobile,2024-05-09
+1657,49,Other,Canada,Basic,Drama,138,1.2,Mobile,2024-04-14
+1658,62,Other,India,Basic,Romance,202,2.0,Smart TV,2024-01-27
+1659,64,Female,Australia,Basic,Romance,63,3.1,Tablet,2024-08-14
+1660,38,Other,USA,Basic,Action,196,1.7,Smart TV,2024-01-02
+1661,33,Female,USA,Basic,Romance,150,1.7,Laptop,2024-12-24
+1662,38,Other,India,Free,Romance,136,2.9,Mobile,2024-04-10
+1663,28,Male,Canada,Premium,Romance,21,1.1,Laptop,2024-01-21
+1664,54,Female,Australia,Basic,Drama,18,1.5,Laptop,2024-02-27
+1665,53,Female,UK,Basic,Action,210,2.7,Mobile,2024-06-28
+1666,52,Female,India,Premium,Romance,17,1.3,Tablet,2024-12-06
+1667,36,Male,Canada,Free,Romance,139,2.6,Smart TV,2024-12-14
+1668,37,Male,UK,Premium,Drama,132,2.9,Laptop,2024-01-20
+1669,35,Male,USA,Premium,Action,48,2.8,Mobile,2024-09-11
+1670,64,Male,USA,Basic,Comedy,123,4.5,Laptop,2024-11-12
+1671,58,Male,UK,Premium,Drama,147,3.1,Smart TV,2024-02-07
+1672,31,Female,India,Premium,Action,23,2.9,Tablet,2024-05-27
+1673,32,Male,USA,Basic,Romance,67,2.6,Tablet,2024-01-25
+1674,48,Female,Australia,Basic,Action,239,4.3,Tablet,2024-04-30
+1675,18,Male,UK,Basic,Action,167,4.6,Mobile,2024-01-26
+1676,20,Other,UK,Basic,Sci-Fi,85,4.4,Mobile,2024-06-17
+1677,33,Female,USA,Premium,Action,167,3.7,Tablet,2024-11-18
+1678,40,Other,India,Premium,Comedy,151,1.5,Smart TV,2024-08-12
+1679,28,Female,Australia,Free,Action,152,2.1,Smart TV,2024-01-01
+1680,29,Other,India,Free,Comedy,104,1.2,Mobile,2024-11-02
+1681,27,Male,Canada,Premium,Romance,167,4.7,Tablet,2024-09-17
+1682,49,Male,Canada,Free,Comedy,164,3.6,Smart TV,2024-01-13
+1683,33,Male,USA,Premium,Romance,126,4.0,Smart TV,2024-02-17
+1684,25,Female,USA,Free,Romance,180,2.2,Smart TV,2024-11-08
+1685,55,Other,USA,Basic,Comedy,48,4.4,Mobile,2024-10-17
+1686,29,Male,Canada,Free,Drama,108,2.0,Tablet,2024-11-27
+1687,41,Other,India,Basic,Thriller,156,1.0,Laptop,2024-04-03
+1688,45,Other,India,Basic,Action,65,2.5,Tablet,2024-09-17
+1689,25,Male,USA,Basic,Sci-Fi,129,3.3,Tablet,2024-10-04
+1690,45,Male,Australia,Basic,Thriller,149,2.9,Mobile,2024-12-24
+1691,53,Other,India,Free,Action,75,4.4,Smart TV,2024-07-23
+1692,43,Male,Canada,Premium,Action,111,1.4,Smart TV,2024-07-03
+1693,25,Male,UK,Basic,Romance,54,3.2,Mobile,2024-06-23
+1694,45,Male,UK,Free,Action,69,3.1,Mobile,2024-11-04
+1695,45,Female,UK,Basic,Sci-Fi,103,2.1,Mobile,2024-03-09
+1696,54,Other,Australia,Free,Action,36,4.3,Mobile,2024-04-13
+1697,58,Other,USA,Free,Comedy,168,4.0,Mobile,2024-09-02
+1698,53,Female,Canada,Free,Thriller,145,3.9,Laptop,2024-06-09
+1699,44,Other,Australia,Premium,Comedy,202,4.5,Tablet,2024-07-18
+1700,34,Male,Canada,Free,Sci-Fi,62,3.9,Tablet,2024-08-03
+1701,26,Other,Canada,Free,Action,132,1.9,Tablet,2024-07-30
+1702,50,Male,USA,Premium,Sci-Fi,146,3.8,Smart TV,2024-01-16
+1703,37,Female,UK,Premium,Romance,169,2.2,Laptop,2024-11-27
+1704,30,Male,USA,Free,Comedy,116,2.0,Tablet,2024-07-23
+1705,45,Other,Australia,Premium,Comedy,211,1.3,Smart TV,2024-12-30
+1706,46,Other,Australia,Basic,Drama,72,4.0,Laptop,2024-02-08
+1707,30,Other,Australia,Basic,Action,44,3.8,Laptop,2024-03-29
+1708,63,Female,USA,Premium,Romance,191,1.9,Smart TV,2024-09-12
+1709,52,Female,Canada,Premium,Comedy,212,4.0,Laptop,2024-09-10
+1710,23,Other,Canada,Free,Comedy,224,4.7,Smart TV,2024-08-03
+1711,35,Male,India,Premium,Romance,148,1.4,Tablet,2024-10-29
+1712,22,Female,Australia,Free,Sci-Fi,194,1.9,Smart TV,2024-06-20
+1713,64,Other,Canada,Basic,Sci-Fi,136,4.0,Laptop,2024-05-16
+1714,42,Other,India,Premium,Action,177,2.1,Tablet,2024-06-26
+1715,19,Female,Canada,Free,Drama,94,3.5,Tablet,2024-03-17
+1716,27,Female,Australia,Free,Comedy,32,1.3,Mobile,2024-07-06
+1717,47,Female,UK,Basic,Drama,100,2.8,Mobile,2024-01-15
+1718,62,Male,Australia,Premium,Sci-Fi,198,4.0,Laptop,2024-10-18
+1719,22,Male,USA,Basic,Sci-Fi,35,3.7,Smart TV,2024-11-14
+1720,50,Other,Canada,Free,Thriller,7,4.3,Smart TV,2024-11-20
+1721,18,Female,Canada,Free,Action,140,4.5,Laptop,2024-08-01
+1722,35,Male,USA,Premium,Thriller,28,4.1,Tablet,2024-07-26
+1723,49,Female,USA,Free,Thriller,19,3.7,Laptop,2024-06-17
+1724,64,Other,UK,Premium,Thriller,175,1.1,Laptop,2024-11-25
+1725,28,Male,Canada,Basic,Action,163,3.1,Tablet,2024-10-06
+1726,38,Male,Canada,Premium,Action,205,1.2,Smart TV,2024-10-31
+1727,43,Male,UK,Premium,Romance,235,4.2,Laptop,2024-05-25
+1728,42,Other,India,Free,Drama,49,2.3,Smart TV,2024-09-19
+1729,39,Female,UK,Free,Drama,198,3.2,Laptop,2024-01-04
+1730,44,Male,Australia,Premium,Romance,12,2.1,Tablet,2024-03-30
+1731,30,Other,Canada,Free,Romance,75,4.1,Tablet,2024-02-29
+1732,50,Female,USA,Free,Sci-Fi,112,4.5,Mobile,2024-11-06
+1733,51,Other,Australia,Free,Thriller,119,2.6,Tablet,2024-01-16
+1734,58,Female,Canada,Premium,Romance,107,4.5,Mobile,2024-08-14
+1735,52,Other,UK,Free,Comedy,238,2.1,Laptop,2024-01-29
+1736,18,Female,Australia,Premium,Drama,129,3.1,Smart TV,2024-05-30
+1737,38,Male,Canada,Free,Romance,61,4.4,Tablet,2024-09-01
+1738,23,Female,India,Basic,Comedy,212,2.3,Tablet,2024-09-26
+1739,45,Other,India,Free,Comedy,231,4.8,Tablet,2024-03-19
+1740,34,Other,USA,Free,Comedy,34,1.5,Laptop,2024-10-15
+1741,22,Female,Canada,Premium,Sci-Fi,206,1.1,Mobile,2024-06-01
+1742,48,Male,India,Premium,Sci-Fi,234,4.6,Laptop,2024-10-03
+1743,22,Male,UK,Free,Comedy,150,1.3,Smart TV,2024-10-05
+1744,55,Female,Canada,Basic,Sci-Fi,118,5.0,Laptop,2024-02-26
+1745,20,Female,UK,Free,Thriller,201,4.8,Smart TV,2024-07-04
+1746,40,Other,UK,Free,Comedy,121,1.5,Tablet,2024-04-02
+1747,54,Male,India,Basic,Thriller,225,3.2,Smart TV,2024-10-02
+1748,54,Female,Canada,Premium,Thriller,171,1.7,Smart TV,2024-06-06
+1749,27,Male,Australia,Free,Comedy,64,2.7,Mobile,2024-10-01
+1750,27,Female,India,Premium,Drama,102,1.2,Smart TV,2024-06-29
+1751,36,Female,India,Premium,Comedy,175,1.9,Smart TV,2024-12-24
+1752,34,Male,Canada,Basic,Comedy,130,2.5,Laptop,2024-03-17
+1753,38,Female,Canada,Basic,Sci-Fi,177,2.8,Tablet,2024-05-30
+1754,31,Female,UK,Premium,Comedy,155,4.9,Laptop,2024-08-25
+1755,26,Other,Canada,Free,Drama,201,4.2,Laptop,2024-10-15
+1756,63,Female,UK,Premium,Sci-Fi,98,3.9,Tablet,2024-08-18
+1757,18,Female,India,Free,Action,138,3.1,Tablet,2024-01-18
+1758,62,Female,USA,Free,Action,188,4.4,Smart TV,2024-03-13
+1759,30,Other,Australia,Basic,Thriller,126,2.4,Smart TV,2024-07-07
+1760,21,Male,India,Free,Thriller,112,3.8,Mobile,2024-01-17
+1761,18,Other,Canada,Free,Drama,8,5.0,Laptop,2024-01-19
+1762,57,Other,Australia,Premium,Romance,97,2.3,Tablet,2024-08-06
+1763,49,Male,USA,Basic,Action,155,3.7,Smart TV,2024-11-21
+1764,51,Other,USA,Free,Thriller,10,4.4,Tablet,2024-04-29
+1765,45,Male,UK,Free,Action,36,4.7,Smart TV,2024-04-10
+1766,48,Other,Australia,Basic,Drama,110,3.9,Mobile,2024-02-03
+1767,25,Male,UK,Premium,Drama,150,2.1,Mobile,2024-03-24
+1768,56,Female,India,Basic,Romance,19,2.3,Tablet,2024-07-14
+1769,43,Other,Australia,Basic,Romance,172,1.1,Mobile,2024-11-25
+1770,51,Other,India,Free,Sci-Fi,126,4.0,Tablet,2024-07-20
+1771,20,Other,UK,Free,Drama,100,1.2,Smart TV,2024-12-09
+1772,29,Other,Australia,Premium,Thriller,205,4.5,Laptop,2024-12-06
+1773,18,Female,UK,Free,Action,233,1.5,Mobile,2024-01-11
+1774,61,Other,Australia,Free,Comedy,206,1.7,Smart TV,2024-12-12
+1775,22,Female,UK,Basic,Romance,216,2.9,Laptop,2024-08-05
+1776,47,Female,USA,Free,Comedy,10,4.0,Laptop,2024-09-09
+1777,47,Female,UK,Premium,Thriller,116,1.6,Laptop,2024-08-09
+1778,34,Female,USA,Basic,Romance,124,2.8,Smart TV,2024-03-20
+1779,64,Male,UK,Premium,Comedy,127,2.9,Smart TV,2024-01-07
+1780,40,Male,Australia,Basic,Thriller,195,1.8,Tablet,2024-09-28
+1781,32,Other,Australia,Free,Action,71,1.5,Laptop,2024-08-14
+1782,54,Male,Australia,Basic,Thriller,110,4.3,Laptop,2024-01-16
+1783,38,Male,Canada,Basic,Sci-Fi,143,3.0,Laptop,2024-01-12
+1784,31,Other,India,Free,Romance,47,1.1,Tablet,2024-10-17
+1785,19,Other,Australia,Free,Drama,149,4.2,Laptop,2024-08-28
+1786,28,Other,USA,Premium,Action,100,4.9,Smart TV,2024-01-21
+1787,56,Male,Australia,Premium,Comedy,136,3.4,Laptop,2024-06-26
+1788,55,Male,Canada,Free,Romance,195,3.0,Mobile,2024-08-15
+1789,51,Other,USA,Free,Drama,200,4.5,Smart TV,2024-09-29
+1790,55,Female,Canada,Free,Thriller,85,4.8,Tablet,2024-10-14
+1791,51,Other,USA,Basic,Drama,45,4.0,Laptop,2024-10-23
+1792,35,Female,UK,Basic,Romance,215,2.8,Mobile,2024-05-13
+1793,47,Female,India,Basic,Romance,137,3.4,Tablet,2024-10-09
+1794,32,Other,India,Free,Sci-Fi,164,3.8,Tablet,2024-06-01
+1795,44,Other,Canada,Premium,Sci-Fi,218,1.8,Smart TV,2024-03-06
+1796,51,Other,India,Free,Drama,202,2.8,Tablet,2024-05-16
+1797,55,Male,Canada,Basic,Thriller,39,4.3,Tablet,2024-04-01
+1798,50,Female,Canada,Basic,Drama,26,3.6,Tablet,2024-11-12
+1799,41,Male,Canada,Free,Romance,197,2.6,Tablet,2024-09-15
+1800,32,Male,India,Free,Romance,216,3.7,Laptop,2024-04-12
+1801,47,Other,Canada,Basic,Comedy,154,1.5,Laptop,2024-02-24
+1802,59,Male,India,Basic,Sci-Fi,116,2.6,Laptop,2024-09-13
+1803,34,Other,Canada,Basic,Comedy,15,4.2,Laptop,2024-04-10
+1804,22,Female,Australia,Free,Action,209,1.9,Mobile,2024-07-16
+1805,46,Other,Canada,Basic,Romance,238,1.7,Laptop,2024-10-27
+1806,21,Male,USA,Basic,Comedy,7,4.8,Tablet,2024-08-13
+1807,27,Male,Canada,Premium,Drama,141,1.8,Laptop,2024-08-24
+1808,34,Other,UK,Free,Sci-Fi,64,2.0,Laptop,2024-01-26
+1809,27,Other,Canada,Premium,Sci-Fi,80,4.9,Smart TV,2024-04-30
+1810,34,Male,USA,Premium,Thriller,91,3.9,Tablet,2024-06-30
+1811,37,Female,USA,Basic,Drama,18,3.8,Laptop,2024-07-17
+1812,41,Female,India,Free,Thriller,229,4.4,Laptop,2024-10-28
+1813,22,Other,Australia,Basic,Comedy,22,1.5,Laptop,2024-09-11
+1814,51,Female,Canada,Free,Action,117,3.8,Mobile,2024-05-01
+1815,23,Male,India,Premium,Drama,237,3.0,Laptop,2024-01-31
+1816,19,Other,Australia,Free,Drama,77,4.3,Smart TV,2024-11-10
+1817,30,Male,Canada,Basic,Drama,27,3.0,Tablet,2024-10-11
+1818,60,Male,UK,Basic,Thriller,206,3.5,Tablet,2024-04-15
+1819,60,Female,Canada,Basic,Comedy,87,2.9,Laptop,2024-08-11
+1820,28,Other,USA,Free,Drama,129,2.9,Laptop,2024-09-29
+1821,64,Other,USA,Premium,Drama,179,4.1,Laptop,2024-08-19
+1822,40,Female,UK,Premium,Sci-Fi,73,3.5,Tablet,2024-09-12
+1823,33,Male,India,Free,Action,51,3.5,Tablet,2024-01-24
+1824,48,Male,Australia,Basic,Sci-Fi,120,2.8,Mobile,2024-04-18
+1825,28,Male,Canada,Premium,Sci-Fi,219,3.1,Smart TV,2024-07-09
+1826,33,Male,USA,Basic,Action,34,4.0,Mobile,2024-12-12
+1827,25,Other,India,Free,Comedy,29,4.3,Smart TV,2024-01-25
+1828,21,Other,UK,Basic,Sci-Fi,160,3.8,Mobile,2024-07-05
+1829,57,Female,USA,Premium,Comedy,230,4.7,Tablet,2024-10-14
+1830,21,Female,UK,Premium,Sci-Fi,116,4.3,Mobile,2024-04-25
+1831,42,Other,Canada,Basic,Romance,29,3.2,Smart TV,2024-12-03
+1832,20,Other,Australia,Free,Action,78,3.7,Laptop,2024-02-06
+1833,49,Male,USA,Basic,Sci-Fi,210,4.7,Smart TV,2024-10-08
+1834,20,Male,USA,Free,Romance,238,3.5,Laptop,2024-05-16
+1835,44,Female,Canada,Basic,Thriller,62,4.3,Tablet,2024-08-14
+1836,46,Other,India,Premium,Romance,98,3.8,Smart TV,2024-11-15
+1837,49,Female,Australia,Free,Drama,123,3.2,Mobile,2024-11-23
+1838,36,Other,USA,Free,Sci-Fi,131,2.0,Smart TV,2024-06-30
+1839,38,Male,Australia,Free,Romance,173,2.7,Laptop,2024-12-27
+1840,22,Female,USA,Premium,Comedy,29,4.9,Tablet,2024-03-26
+1841,35,Female,Australia,Basic,Thriller,82,3.6,Mobile,2024-02-22
+1842,45,Other,UK,Premium,Sci-Fi,103,3.3,Smart TV,2024-12-13
+1843,59,Male,USA,Free,Drama,120,4.7,Laptop,2024-12-20
+1844,39,Female,Australia,Basic,Romance,52,3.3,Mobile,2024-08-22
+1845,38,Male,India,Premium,Thriller,230,3.1,Tablet,2024-09-23
+1846,23,Female,UK,Free,Sci-Fi,14,4.0,Mobile,2024-10-13
+1847,18,Male,UK,Free,Thriller,103,3.9,Tablet,2024-04-09
+1848,22,Other,India,Premium,Drama,207,1.8,Mobile,2024-03-27
+1849,58,Female,Australia,Premium,Romance,15,2.9,Smart TV,2024-01-15
+1850,29,Female,Canada,Premium,Thriller,89,2.9,Laptop,2024-04-10
+1851,43,Male,India,Free,Thriller,153,2.5,Smart TV,2024-06-13
+1852,63,Male,Australia,Premium,Action,218,3.1,Smart TV,2024-01-29
+1853,51,Female,India,Free,Thriller,177,2.7,Tablet,2024-04-23
+1854,31,Other,India,Premium,Action,139,1.8,Tablet,2024-04-16
+1855,43,Male,USA,Free,Romance,213,2.6,Tablet,2024-12-29
+1856,62,Male,Australia,Free,Sci-Fi,196,1.3,Smart TV,2024-05-09
+1857,44,Male,Canada,Basic,Sci-Fi,130,3.3,Mobile,2024-03-24
+1858,26,Female,USA,Premium,Romance,68,4.4,Mobile,2024-09-27
+1859,43,Female,India,Premium,Romance,6,3.9,Smart TV,2024-08-31
+1860,64,Female,India,Free,Comedy,80,2.4,Smart TV,2024-08-01
+1861,39,Female,India,Free,Romance,125,1.3,Laptop,2024-11-01
+1862,64,Other,Australia,Free,Thriller,46,1.8,Tablet,2024-06-14
+1863,47,Other,Australia,Basic,Sci-Fi,214,3.2,Tablet,2024-10-05
+1864,60,Female,USA,Basic,Drama,58,1.8,Smart TV,2024-02-28
+1865,34,Other,Canada,Free,Sci-Fi,79,3.2,Smart TV,2024-03-30
+1866,43,Male,USA,Premium,Action,20,1.9,Mobile,2024-11-26
+1867,53,Male,UK,Premium,Sci-Fi,22,4.4,Smart TV,2024-07-12
+1868,18,Male,India,Basic,Comedy,231,2.6,Mobile,2024-05-02
+1869,25,Female,India,Basic,Romance,191,2.0,Smart TV,2024-05-15
+1870,52,Male,India,Free,Romance,94,4.2,Laptop,2024-05-18
+1871,32,Other,USA,Premium,Sci-Fi,148,2.4,Laptop,2024-08-16
+1872,64,Female,USA,Free,Drama,10,1.4,Mobile,2024-09-30
+1873,39,Other,India,Basic,Drama,189,3.3,Tablet,2024-02-19
+1874,31,Male,USA,Premium,Comedy,112,3.3,Laptop,2024-04-27
+1875,43,Male,Australia,Premium,Action,239,3.9,Mobile,2024-07-20
+1876,45,Male,Australia,Basic,Sci-Fi,179,2.0,Smart TV,2024-07-09
+1877,40,Female,USA,Free,Romance,52,2.8,Smart TV,2024-12-29
+1878,31,Other,India,Free,Sci-Fi,46,2.1,Mobile,2024-11-18
+1879,41,Female,USA,Premium,Comedy,80,1.3,Tablet,2024-06-29
+1880,19,Female,USA,Basic,Thriller,192,4.5,Mobile,2024-03-18
+1881,62,Male,USA,Premium,Thriller,81,3.9,Mobile,2024-03-15
+1882,43,Female,UK,Basic,Comedy,136,2.2,Laptop,2024-10-21
+1883,31,Female,Australia,Free,Romance,235,3.4,Mobile,2024-10-07
+1884,24,Male,Canada,Basic,Comedy,134,1.8,Mobile,2024-01-21
+1885,20,Female,Canada,Free,Romance,222,4.6,Smart TV,2024-06-19
+1886,64,Male,UK,Basic,Drama,63,1.5,Laptop,2024-01-15
+1887,40,Male,USA,Premium,Comedy,159,1.0,Smart TV,2024-07-29
+1888,63,Male,UK,Free,Romance,31,3.0,Smart TV,2024-02-17
+1889,60,Male,UK,Premium,Comedy,83,3.3,Tablet,2024-03-26
+1890,64,Female,India,Premium,Comedy,76,3.3,Tablet,2024-05-28
+1891,62,Male,Australia,Free,Romance,11,1.2,Laptop,2024-07-06
+1892,35,Male,Canada,Free,Romance,195,2.3,Laptop,2024-11-01
+1893,55,Female,USA,Premium,Action,115,3.0,Tablet,2024-05-30
+1894,52,Female,Canada,Premium,Comedy,123,1.9,Tablet,2024-05-20
+1895,32,Other,Canada,Premium,Thriller,178,4.5,Tablet,2024-03-09
+1896,42,Female,Australia,Premium,Comedy,67,1.3,Tablet,2024-09-16
+1897,54,Female,Canada,Free,Comedy,236,2.9,Tablet,2024-11-29
+1898,45,Other,Canada,Free,Romance,128,3.8,Smart TV,2024-01-09
+1899,27,Female,UK,Premium,Comedy,16,2.0,Laptop,2024-04-30
+1900,56,Female,Australia,Basic,Sci-Fi,145,3.5,Smart TV,2024-04-10
+1901,34,Female,India,Basic,Comedy,47,4.3,Smart TV,2024-05-28
+1902,56,Female,USA,Free,Sci-Fi,21,1.8,Mobile,2024-05-25
+1903,39,Other,Canada,Premium,Thriller,67,4.7,Smart TV,2024-12-18
+1904,43,Female,USA,Premium,Romance,213,3.2,Tablet,2024-08-30
+1905,61,Female,India,Free,Comedy,124,2.2,Tablet,2024-08-28
+1906,42,Other,USA,Basic,Sci-Fi,40,2.7,Mobile,2024-12-02
+1907,34,Male,India,Basic,Sci-Fi,217,2.2,Mobile,2024-02-12
+1908,30,Other,UK,Basic,Sci-Fi,12,3.9,Mobile,2024-04-04
+1909,37,Male,Canada,Free,Drama,73,4.2,Mobile,2024-08-13
+1910,42,Other,India,Basic,Action,94,4.3,Mobile,2024-01-06
+1911,21,Other,USA,Free,Thriller,212,4.9,Smart TV,2024-08-01
+1912,27,Female,Canada,Free,Comedy,40,4.2,Mobile,2024-07-24
+1913,20,Male,UK,Premium,Drama,32,3.4,Smart TV,2024-03-07
+1914,58,Female,Canada,Basic,Comedy,122,2.4,Laptop,2024-04-09
+1915,62,Male,India,Free,Comedy,97,3.2,Mobile,2024-01-12
+1916,35,Other,UK,Basic,Romance,179,1.2,Mobile,2024-08-24
+1917,64,Other,USA,Basic,Romance,80,4.0,Smart TV,2024-11-17
+1918,53,Male,UK,Premium,Romance,105,2.8,Laptop,2024-09-14
+1919,64,Female,UK,Basic,Drama,162,1.1,Smart TV,2024-12-02
+1920,39,Female,Australia,Premium,Comedy,155,1.3,Smart TV,2024-05-14
+1921,51,Female,UK,Free,Action,148,2.5,Mobile,2024-08-09
+1922,64,Female,UK,Basic,Thriller,18,3.3,Tablet,2024-06-04
+1923,25,Other,Canada,Free,Romance,206,2.9,Tablet,2024-05-21
+1924,57,Other,USA,Basic,Romance,75,3.5,Smart TV,2024-06-06
+1925,61,Other,Canada,Free,Comedy,184,2.9,Mobile,2024-11-21
+1926,36,Other,Canada,Basic,Comedy,128,3.6,Laptop,2024-12-09
+1927,59,Other,India,Basic,Drama,129,1.9,Tablet,2024-09-18
+1928,58,Female,Canada,Basic,Drama,41,1.5,Laptop,2024-10-09
+1929,54,Female,Australia,Basic,Romance,33,3.4,Tablet,2024-12-03
+1930,23,Female,Australia,Basic,Comedy,199,2.9,Mobile,2024-12-09
+1931,43,Female,India,Basic,Action,147,1.1,Smart TV,2024-08-16
+1932,51,Other,USA,Basic,Thriller,232,2.5,Laptop,2024-10-06
+1933,62,Other,USA,Basic,Comedy,179,1.4,Laptop,2024-12-23
+1934,23,Other,Canada,Basic,Comedy,178,3.1,Smart TV,2024-10-16
+1935,54,Male,Canada,Free,Sci-Fi,184,2.6,Laptop,2024-06-16
+1936,50,Female,Canada,Premium,Drama,23,3.5,Tablet,2024-02-16
+1937,39,Female,USA,Basic,Thriller,209,4.2,Smart TV,2024-07-21
+1938,38,Other,UK,Premium,Romance,110,2.2,Tablet,2024-08-01
+1939,23,Female,Australia,Basic,Comedy,25,4.8,Tablet,2024-09-02
+1940,23,Female,UK,Basic,Romance,68,3.1,Mobile,2024-01-24
+1941,21,Other,UK,Free,Comedy,169,3.5,Tablet,2024-11-16
+1942,47,Male,USA,Free,Romance,31,3.7,Mobile,2024-09-30
+1943,28,Male,UK,Premium,Thriller,59,3.7,Laptop,2024-02-13
+1944,47,Male,India,Free,Drama,33,3.0,Laptop,2024-11-27
+1945,48,Other,Canada,Free,Thriller,152,2.7,Mobile,2024-11-08
+1946,41,Female,India,Premium,Sci-Fi,29,1.2,Tablet,2024-12-28
+1947,26,Other,Australia,Free,Action,74,1.1,Smart TV,2024-06-04
+1948,20,Other,Canada,Basic,Drama,67,2.4,Smart TV,2024-07-17
+1949,48,Female,UK,Premium,Thriller,168,2.3,Mobile,2024-06-10
+1950,57,Male,Australia,Premium,Sci-Fi,134,2.6,Laptop,2024-08-21
+1951,54,Male,Canada,Basic,Action,154,1.6,Laptop,2024-06-11
+1952,53,Other,UK,Free,Sci-Fi,228,4.0,Smart TV,2024-04-25
+1953,41,Male,India,Premium,Comedy,20,4.4,Mobile,2024-04-02
+1954,48,Other,Canada,Premium,Comedy,150,4.8,Smart TV,2024-02-11
+1955,23,Other,UK,Basic,Romance,201,3.0,Tablet,2024-10-10
+1956,19,Female,India,Basic,Drama,186,3.8,Tablet,2024-07-28
+1957,37,Female,Australia,Free,Comedy,104,4.4,Mobile,2024-07-24
+1958,45,Female,Australia,Premium,Sci-Fi,34,2.7,Mobile,2024-08-07
+1959,28,Other,Australia,Free,Drama,49,2.2,Tablet,2024-10-06
+1960,21,Female,Australia,Free,Comedy,23,4.7,Laptop,2024-05-15
+1961,32,Male,USA,Basic,Romance,219,3.1,Mobile,2024-04-15
+1962,23,Male,Canada,Premium,Thriller,38,3.0,Tablet,2024-04-27
+1963,47,Other,Canada,Premium,Romance,145,1.7,Tablet,2024-08-24
+1964,55,Other,USA,Premium,Action,175,1.4,Laptop,2024-11-04
+1965,19,Female,UK,Basic,Comedy,66,4.4,Laptop,2024-04-09
+1966,32,Other,UK,Basic,Action,122,3.5,Laptop,2024-09-17
+1967,28,Other,Australia,Basic,Action,225,2.3,Laptop,2024-10-31
+1968,25,Male,India,Basic,Sci-Fi,104,1.8,Smart TV,2024-12-19
+1969,43,Male,UK,Basic,Drama,26,3.2,Laptop,2024-10-12
+1970,62,Female,India,Premium,Sci-Fi,184,3.3,Smart TV,2024-11-23
+1971,61,Other,Canada,Free,Comedy,184,1.8,Mobile,2024-04-12
+1972,22,Other,India,Premium,Action,115,4.4,Tablet,2024-03-03
+1973,23,Male,Canada,Free,Thriller,168,1.3,Smart TV,2024-06-23
+1974,43,Other,USA,Basic,Action,77,2.4,Mobile,2024-10-08
+1975,21,Male,USA,Free,Thriller,235,3.7,Mobile,2024-10-19
+1976,36,Female,Australia,Premium,Sci-Fi,151,2.1,Smart TV,2024-08-13
+1977,37,Male,UK,Premium,Sci-Fi,42,4.3,Mobile,2024-01-07
+1978,50,Other,Australia,Free,Drama,74,4.0,Mobile,2024-05-06
+1979,37,Female,Canada,Basic,Action,120,4.2,Smart TV,2024-04-01
+1980,29,Male,Australia,Basic,Romance,83,1.5,Mobile,2024-07-08
+1981,64,Male,India,Premium,Sci-Fi,189,1.6,Laptop,2024-12-24
+1982,18,Female,Canada,Free,Sci-Fi,152,2.1,Laptop,2024-02-22
+1983,43,Female,USA,Basic,Drama,13,3.1,Tablet,2024-08-29
+1984,31,Male,UK,Basic,Thriller,36,4.0,Mobile,2024-05-11
+1985,55,Other,Canada,Premium,Drama,136,4.3,Tablet,2024-12-29
+1986,54,Male,Canada,Basic,Action,54,3.8,Laptop,2024-04-21
+1987,28,Female,India,Free,Comedy,86,4.7,Laptop,2024-01-07
+1988,53,Male,UK,Premium,Comedy,9,4.0,Laptop,2024-08-17
+1989,30,Female,USA,Premium,Thriller,152,2.2,Mobile,2024-06-04
+1990,60,Female,Canada,Free,Sci-Fi,91,2.1,Mobile,2024-07-15
+1991,20,Other,Canada,Premium,Thriller,130,3.8,Laptop,2024-11-18
+1992,50,Female,India,Basic,Sci-Fi,79,1.8,Tablet,2024-12-29
+1993,23,Female,Australia,Basic,Sci-Fi,169,1.4,Tablet,2024-08-10
+1994,27,Other,USA,Free,Comedy,26,3.1,Smart TV,2024-09-06
+1995,22,Female,UK,Basic,Thriller,190,4.3,Laptop,2024-03-23
+1996,40,Other,Canada,Free,Drama,72,1.4,Tablet,2024-08-27
+1997,27,Other,Canada,Free,Sci-Fi,225,4.2,Laptop,2024-12-25
+1998,61,Female,USA,Basic,Romance,48,4.2,Tablet,2024-11-18
+1999,19,Female,Australia,Free,Romance,38,2.9,Smart TV,2024-09-19
